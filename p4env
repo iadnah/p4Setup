@@ -1,0 +1,17 @@
+#User to connect as
+export P4USER=""
+
+#Port specification
+export P4PORT=""
+
+#Password to connect with
+export P4PASSWD=""
+
+#Charset to use
+#export P4CHARSET=""
+
+#Editor to use; defaults to $PAGER if unset
+#export P4EDITOR=""
+
+#Pager to use (like less or more)
+#export P4PAGER=""
